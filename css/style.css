@@ -1,0 +1,18 @@
+*{padding:0px; margin: 0px; }
+@import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap');
+body {font-family: 'Pacifico', cursive; background-image: url("../GAGNO/ОВЕЧКИ.jpg");
+		background-size: 100%;}
+p{font-color: yellow;font-size:10000 } 
+div {color: yellow;}
+.vidi {font-size: 35px }
+.text {padding: 5px; margin: 5px}
+.text {height: 300px; width: 300px}
+.head {font-size: 20px}
+.text {font-size: 25px}
+fieldset {color: yellow;}
+.vopros {color:#FF1493;}
+.head a {color: white;}
+
+
+
+
